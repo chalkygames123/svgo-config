@@ -13,6 +13,7 @@ export default {
 						unknownAttrs: false,
 					},
 					removeViewBox: false,
+					sortAttrs: false,
 				},
 			},
 		},

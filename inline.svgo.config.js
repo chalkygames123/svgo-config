@@ -12,7 +12,7 @@ export default {
 						keepDataAttrs: false,
 					},
 					removeViewBox: false,
-					cleanupIDs: {
+					cleanupIds: {
 						minify: false,
 					},
 				},
@@ -20,6 +20,5 @@ export default {
 		},
 		'convertStyleToAttrs',
 		'reusePaths',
-		'sortAttrs',
 	],
 };

@@ -13,7 +13,8 @@ export default {
 						unknownAttrs: false,
 					},
 					removeViewBox: false,
-					cleanupIDs: {
+					sortAttrs: false,
+					cleanupIds: {
 						minify: false,
 					},
 				},
