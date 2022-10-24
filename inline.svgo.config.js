@@ -13,13 +13,13 @@ export default {
 			name: 'preset-default',
 			params: {
 				overrides: {
+					cleanupIds: {
+						minify: false,
+					},
 					removeUnknownsAndDefaults: {
 						keepDataAttrs: false,
 					},
 					removeViewBox: false,
-					cleanupIds: {
-						minify: false,
-					},
 				},
 			},
 		},
